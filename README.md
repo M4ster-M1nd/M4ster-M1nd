@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M4ster-M1nd
-- 👀 I’m interested in C, C++, Java projects
-- 🌱 I’m currently learning Qt, Java Frameworks
+- 👀 I’m interested in C, C++, Java, JS projects
+- 🌱 I’m currently learning Qt, JS and Java Frameworks
 - 💞️ I’m looking to collaborate on algorhytmic coding on C/C++
 - 📫 How to reach me: @M4sterM1nd on Telegram
 
